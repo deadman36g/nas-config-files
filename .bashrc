@@ -31,4 +31,3 @@ alias fbrevert='filebot -script fn:revert . '
 alias fbrename='filebot -rename . --db TheMovieDB --format "{n} ({y})/{fn}"'
 alias 775='chmod -R 775 *'
 alias plexdir='cd /media/c29e9d5b-610d-4ccb-b2d4-81a71fc90adb/plexmediaserver/'
-# a comment
